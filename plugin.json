@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "modern-github-actions-best-practices",
+  "displayName": "Modern GitHub Actions Best Practices",
+  "version": "1.0.0",
+  "description": "Enterprise-grade modern GitHub Actions best practices covering zero-trust security & supply chain hardening (SHA-256 action pinning, least-privilege permissions, OIDC cloud federation, injection defense), modular workflow architecture (reusable workflows, composite actions, concurrency control), high-performance caching & runner economics, and shift-left CI/CD release quality gates.",
+  "author": {
+    "name": "Halcyon Tech",
+    "url": "https://github.com/HalcyonTech-LTDA"
+  },
+  "homepage": "https://github.com/HalcyonTech-LTDA/modern-github-actions-best-practices",
+  "repository": "https://github.com/HalcyonTech-LTDA/modern-github-actions-best-practices",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Audit this GitHub Actions workflow for security vulnerabilities and injection risks",
+    "Optimize CI/CD pipeline performance, runner caching, and concurrency control",
+    "Refactor workflow into modular reusable workflows and composite actions"
+  ]
+}

@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+installed_version.json
+backlog/
+cards/
+scratch/
+.scratch/
+tmp/
+.env
+*.tmp
